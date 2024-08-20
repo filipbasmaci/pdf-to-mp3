@@ -1,2 +1,4 @@
 # pdf-to-mp3
-PDF to MP3 converter.
+PDF file to MP3 converter.
+
+Upload your PDF file and get your MP3 file that reads out loud your PDF file. Make every PDF file an Audiobook!
